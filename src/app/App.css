@@ -1,0 +1,47 @@
+.inputNumber{
+    width: 500px;
+    height: 100px;
+    border-radius: 20px;
+    border: 1px solid black;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 4px;
+}
+
+.App{
+    margin-top: 150px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.buttons{
+    display: flex;
+    margin-top: 50px;
+    width: 504px;
+    height: 500px;
+    border: 1px solid black;
+}
+
+.buttons-row{
+    width: 300px;
+    border: 1px solid red;
+}
+
+.button-classic{
+    width: 100px;
+    height: 100px;
+
+}
+
+.buttons-grow{
+    width: 200px;
+    height: 500px;
+    border: 1px solid green;
+}
+
+.buttons-schet{
+    width: 200px;
+    height: 70px;
+}
